@@ -15,6 +15,6 @@ This project analyzes vegetation trends using MODIS and Sentinel-2 imagery via G
 
 #### Requirements
 
-Google Earth Engine account
-Earth Engine token authenticated locally
-Study area shapefile (study_area.shp) in the working directory
+- Google Earth Engine account
+- Earth Engine token authenticated locally
+- Study area shapefile (study_area.shp) in the working directory
