@@ -8,4 +8,13 @@ This project analyzes vegetation trends using MODIS and Sentinel-2 imagery via G
 - Exported visualizations
 - EDA and rolling average trends
 
-📁 See `rs_vegetation_analysis.ipynb` for full code and outputs.
+## File Overview
+
+- `rs_vegetation_analysis.ipynb`: Main notebook with full analysis pipeline
+- `requirements.txt`: Pip-based dependencies
+
+#### Requirements
+
+Google Earth Engine account
+Earth Engine token authenticated locally
+Study area shapefile (study_area.shp) in the working directory
