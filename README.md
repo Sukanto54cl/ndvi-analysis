@@ -8,4 +8,4 @@ This project analyzes vegetation trends using MODIS and Sentinel-2 imagery via G
 - Exported visualizations
 - EDA and rolling average trends
 
-📁 See `rs vegetation analysis.ipynb` for full code and outputs.
+📁 See `rs_vegetation_analysis.ipynb` for full code and outputs.
