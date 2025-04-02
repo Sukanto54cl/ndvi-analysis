@@ -10,7 +10,7 @@ This project analyzes vegetation trends using MODIS and Sentinel-2 imagery via G
 
 ## File Overview
 
-- `rs_vegetation_analysis.ipynb`: Main notebook with full analysis pipeline
+- `vegetation analysis.ipynb`: Main notebook with full analysis pipeline
 - `requirements.txt`: Pip-based dependencies
 
 #### Requirements
